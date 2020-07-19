@@ -48,8 +48,7 @@ class ImageResults extends Component {
                             </IconButton>
                         }
                         >
-                        
-                        
+                                                
                         <img src= {img.largeImageURL} alt=""/>
                         </GridTile>
                     ))}
